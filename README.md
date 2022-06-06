@@ -1,2 +1,2 @@
 # Website
-membuat Web sederhana tentang epic flawless per tahap
+membuat Web sederhana tahap demi tahap
